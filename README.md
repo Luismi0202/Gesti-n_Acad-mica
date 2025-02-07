@@ -1,1 +1,2 @@
-# Gesti-n_Acad-mica
+# Gestion_Academica_lgomdom
+![img](./readmeimg.png)
